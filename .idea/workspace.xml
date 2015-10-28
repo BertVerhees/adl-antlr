@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0dd0bf25-5456-4199-946e-80fefff21e5f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="adl-antlr.iws" />
@@ -635,7 +634,7 @@
       <created>1446035606075</created>
       <option name="number" value="Default" />
       <updated>1446035606075</updated>
-      <workItem from="1446035611121" duration="4210000" />
+      <workItem from="1446035611121" duration="4262000" />
     </task>
     <task id="LOCAL-00001" summary="initial changes">
       <created>1446039393241</created>
@@ -643,11 +642,17 @@
       <option name="project" value="LOCAL" />
       <updated>1446039393241</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initial changes">
+      <created>1446039825470</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1446039825470</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4210000" />
+    <option name="totallyTimeSpent" value="4262000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-5" y="32" width="1930" height="1173" extended-state="6" />
