@@ -6,8 +6,8 @@
 // license:     Apache 2.0 License <http://www.apache.org/licenses/LICENSE-2.0.html>
 //
 
-grammar cadl_primitives;
-import adl_keywords, odin_values;
+grammar CadlPrimitives;
+import AdlKeywords, OdinValues;
 
 //
 //  ======================= Parser rules ========================

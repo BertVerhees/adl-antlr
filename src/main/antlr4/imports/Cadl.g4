@@ -6,8 +6,8 @@
 // license:     Apache 2.0 License <http://www.apache.org/licenses/LICENSE-2.0.html>
 //
 
-grammar cadl;
-import adl_rules;
+grammar Cadl;
+import AdlRules;
 
 //
 //  ======================= Top-level Objects ========================

@@ -2,7 +2,7 @@
 //  General purpose patterns used in all openEHR parser and lexer tools
 //
 
-grammar base_patterns;
+grammar BasePatterns;
 
 //
 // -------------------------- Parse Rules --------------------------

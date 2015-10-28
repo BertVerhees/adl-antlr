@@ -6,7 +6,7 @@
 // license:     Apache 2.0 License <http://www.apache.org/licenses/LICENSE-2.0.html>
 //
 
-lexer grammar adl_keywords;
+lexer grammar AdlKeywords;
 
 // ADL keywords
 SYM_ARCHETYPE            : [Aa][Rr][Cc][Hh][Ee][Tt][Yy][Pp][Ee] ;

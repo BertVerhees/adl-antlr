@@ -2,8 +2,8 @@
 // grammar defining ODIN terminal value types, including atoms, lists and intervals
 //
 
-grammar odin_values;
-import base_patterns;
+grammar OdinValues;
+import BasePatterns;
 
 string_value : STRING ;
 string_list_value : string_value ( ( ',' string_value )+ | ',' SYM_LIST_CONTINUE ) ;
